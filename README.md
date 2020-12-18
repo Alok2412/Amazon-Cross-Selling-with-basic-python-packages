@@ -23,11 +23,6 @@ Both these recommendation systems can be defined as below:
 
 * Collaborative Filtering: It is based on assumption that people like things similar to other things they like, and things that are liked by other people with similar taste. There are two ways of doing this. One is user based and second is item based collaborative filtering.
 
-### Data extraction
-
-Due to github space restrictions the json data files are zipped to .gz files under data/*.gz.
-
-After cloning extract the .gz files into data directory.
 
 ### Authors
 Alok Kumar Singh
