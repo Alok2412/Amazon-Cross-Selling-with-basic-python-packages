@@ -23,25 +23,6 @@ Both these recommendation systems can be defined as below:
 
 * Collaborative Filtering: It is based on assumption that people like things similar to other things they like, and things that are liked by other people with similar taste. There are two ways of doing this. One is user based and second is item based collaborative filtering.
 
-### Installation:
-
-##  ON WINDOWS:
-
-### Installation:
-
-* Please download and install GIT from: https://git-scm.com/download/win
-* Please download and install Anaconda toolkit from: https://www.anaconda.com/products/individual
-
-### Clone:
-
-The code can be cloned from the GIT URL: https://github.com/ramesh-suragam/Amazon-Product-Recommendation-System.git
-
-Run the below code for cloning this repo
-
-```bash
-git clone https://github.com/ramesh-suragam/Amazon-Product-Recommendation-System.git
-```
-
 ### Data extraction
 
 Due to github space restrictions the json data files are zipped to .gz files under data/*.gz.
