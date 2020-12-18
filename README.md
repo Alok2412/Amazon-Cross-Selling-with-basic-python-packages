@@ -30,7 +30,7 @@ Due to github space restrictions the json data files are zipped to .gz files und
 After cloning extract the .gz files into data directory.
 
 ### Authors
-Ramesh Suragam
+Alok Kumar Singh
 
 ### Contributing
 
