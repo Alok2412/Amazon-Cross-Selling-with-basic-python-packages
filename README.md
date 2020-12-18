@@ -23,6 +23,9 @@ Both these recommendation systems can be defined as below:
 
 * Collaborative Filtering: It is based on assumption that people like things similar to other things they like, and things that are liked by other people with similar taste. There are two ways of doing this. One is user based and second is item based collaborative filtering.
 
+### Data Set
+
+Amazon Data set is easily available online or on kaggle
 
 ### Authors
 Alok Kumar Singh
